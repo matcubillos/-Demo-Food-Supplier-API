@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/db_auth
-    username: postgres
-    password: awas33
+    url: jdbc:postgresql://localhost:yourport/your_db
+    username: username
+    password: password
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
@@ -17,5 +17,5 @@ spring:
 application:
   security:
     jwt:
-      secret-key: 6a627a7fb025e2c5db643267523a1c801c1178bed30331a2606fe93f4dd9aa7b
-      expiration: 172800000 # two days
+      secret-key: secret-key
+      expiration: 1 #milisecs inside the app (milisegundos segun la configuracion en el codigo)
