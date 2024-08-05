@@ -1,14 +1,20 @@
 # Built with
 ➢ Gradle
 
-➢ Spring Boot 3.3.2 
+➢ Spring Boot 3.2.2	 
 
-➢ Apache Kafka 
+➢ Spring security 6.0.2	 
 
-➢ Zookeeper
+➢ OpenJDK 21.0.1 
 
-➢ Serialización: Avro Schema Registry
+➢ Hibernate & JPA 
+
+➢ PostgreSQL 
 
 ➢ .yml extension 
 
-[![Captura-de-pantalla-8.png](https://i.postimg.cc/hvKcQP5g/Captura-de-pantalla-8.png)](https://postimg.cc/dkNzzvFS)
+➢ JWT 
+
+➢ lombok 
+
+➢ Swagger UI
